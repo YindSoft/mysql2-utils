@@ -1,16 +1,11 @@
-# @smartadtags/mysql2-utils
+# mysql2-utils
 
 This module lets you use MySQL database in a standarized way.
 
 
 ## Install
 
-    $ npm install --save @mysql2-utils
-
-To install this package, you must be logged in on NPM with an account with (at least) read access to @smartadtags organization.
-
-    $ npm login
-
+    $ npm install --save mysql2-utils
 
 ## Example
 
@@ -45,12 +40,4 @@ await connection.commit();
 
 // Closing pool
 await dbService.endPool();
-```
-
-## Publishing a new version
-After code is merged into master, you should run the following commands in master branch.
-
-```sh
-npm version (minor|major|patch)
-git push origin master --follow-tags
 ```
