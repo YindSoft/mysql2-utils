@@ -1,0 +1,23 @@
+{
+  "name": "mysql2-utils",
+  "version": "1.0.0",
+  "description": "MySQL2 Utils",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:YindSoft/mysql2-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://https://github.com/YindSoft/mysql2-utils",
+  "dependencies": {
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
