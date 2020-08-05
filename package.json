@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com:YindSoft/mysql2-utils.git"
   },
-  "keywords": [],
+  "keywords": ["mysql2", "mysql", "wrapper", "utils", "mysql-helper"],
   "author": "",
   "license": "ISC",
   "homepage": "https://https://github.com/YindSoft/mysql2-utils",
